@@ -1,1 +1,2 @@
 fixing bug1 done
+git push 1
